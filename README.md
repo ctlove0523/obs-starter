@@ -45,4 +45,4 @@ tong chen，一名普通的软件工程师。
 
 ## 许可
 
-## ![](https://img.shields.io/badge/License-Apache License 2.0-brightgreen)
+![](https://img.shields.io/badge/License-Apache License 2.0-brightgreen)
