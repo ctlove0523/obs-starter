@@ -37,7 +37,7 @@ mvn clean install
 
 ## 版本
 
-0.0.1
+0.0.1.RELEASE
 
 ## 作者
 
