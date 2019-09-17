@@ -1,1 +1,0 @@
-org.springframework.boot.autoconfigure.EnableAutoConfiguration=io.github.ctlove0523.starter.obs.ObsAutoConfiguration
